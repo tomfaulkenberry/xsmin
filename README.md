@@ -21,9 +21,9 @@ Requirements
 * tikz
 * Note: David's original xsmin used the Adobe fonts below, but I have removed those for now
 * ~~Adobe's "Source Pro" Fonts (free):~~
-    * [Source Serif Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1966)
-    * [Source Sans Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1959)
-    * [Source Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1960)~~
+    * ~~[Source Serif Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1966)~~
+    * ~~[Source Sans Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1959)~~
+    * ~~[Source Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1960)~~
 
 Quick start
 -----------
