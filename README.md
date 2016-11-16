@@ -1,10 +1,9 @@
 xsmin: A Minimalist Beamer Theme
 ================================
 
-This is a beamer template that is based on David Dumas' `xsmin` template, which was derived from "Execushares" by Kenton
-Hamaluik (http://hamaluik.com/posts/better-beamer-themes/).  Many
-features of that theme have been removed.  A few minor cosmetic
-changes have been made as well.
+This is a beamer template that is based on David Dumas' `xsmin` template, which was derived from "Execushares" by Kenton Hamaluik (http://hamaluik.com/posts/better-beamer-themes/). 
+
+Mainly, everything is the same, but I changed the color theme to reflect the official colors of my university (Tarleton State University).  Other university colors can be used as well, either by editing lines 14-18 of the global style file `beamerthemexsmin.sty` or by editing lines 14-18 of the local `.tex` file. 
 
 Status
 ------
@@ -19,7 +18,7 @@ Requirements
 * xelatex
 * Beamer
 * tikz
-* Note: David's original xsmin used the Adobe fonts below, but I have removed those for now
+* Note: David's original xsmin used the Adobe fonts below, but I have removed the dependency for now
 * ~~Adobe's "Source Pro" Fonts (free):~~
     * ~~[Source Serif Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1966)~~
     * ~~[Source Sans Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1959)~~
