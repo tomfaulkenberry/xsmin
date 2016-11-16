@@ -1,7 +1,7 @@
 xsmin: A Minimalist Beamer Theme
 ================================
 
-This is a beamer template derived from "Execushares" by Kenton
+This is a beamer template that is based on David Dumas' `xsmin` template, which was derived from "Execushares" by Kenton
 Hamaluik (http://hamaluik.com/posts/better-beamer-themes/).  Many
 features of that theme have been removed.  A few minor cosmetic
 changes have been made as well.
@@ -19,10 +19,11 @@ Requirements
 * xelatex
 * Beamer
 * tikz
-* Adobe's "Source Pro" Fonts (free):
+* Note: David's original xsmin used the Adobe fonts below, but I have removed those for now
+* ~~Adobe's "Source Pro" Fonts (free):
     * [Source Serif Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1966)
     * [Source Sans Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?event=displayFontPackage&code=1959)
-    * [Source Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1960)
+    * [Source Code Pro](http://store1.adobe.com/cfusion/store/html/index.cfm?store=OLS-US&event=displayFontPackage&code=1960)~~
 
 Quick start
 -----------
@@ -63,6 +64,8 @@ Known issues
 
 Contributors
 ------------
+
+Tom Faulkenberry <tomfaulkenberry@gmail.com>
 
 David Dumas <david@dumas.io>
 
