@@ -11,6 +11,15 @@ Status
 This template is a work in progress and the current version has many
 known issues.  Use at your own risk.
 
+Note (11/16/2016): in order to compile in Emacs, one will need to set XeTeX as the default TeX engine.  The easiest way I've found to do this is the following:
+
+* type M-x customize-variable
+* type TeX-engine
+* select Value Menu and choose XeTeX
+* select "Apply and Save"
+
+In my experience, this is a bit easier than directly editing any of the Emacs customization scripts!
+
 
 Requirements
 ------------
